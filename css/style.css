@@ -1,0 +1,182 @@
+nav{
+    color:#2d2b2b !important;
+    height: 6.9375rem;
+}
+#bannerdown{
+    height: 23.5rem;
+
+}
+#rect-logo{
+    height:6.9375rem ;
+    width:6.6875rem ;
+}
+footer{
+    height: 10.6875rem;
+}
+
+footer p{
+  font-size:  1.17rem; 
+  font-family:Lacuna_Regular Regular ;
+
+
+
+}
+.navbar .navbar-nav {
+    
+  }
+  
+  .nav .navbar-collapse {
+    text-align: center;
+  }
+
+
+  /* imports */
+
+/* Regular */
+@font-face {
+    font-family: 'League Gothic';
+    src: url('../fontface/league-gothic-master/leaguegothic-regular-webfont.eot');
+    src: url('../fontface/league-gothic-master/leaguegothic-regular-webfont.eot?#iefix') format('embedded-opentype'),
+         url('../fontface/league-gothic-master/leaguegothic-regular-webfont.woff') format('woff'),
+         url('../fontface/league-gothic-master/leaguegothic-regular-webfont.ttf') format('truetype'),
+         url('../fontface/league-gothic-master/leaguegothic-regular-webfont.svg#league_gothicregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'lacuna_regularregular';
+    src: url('../fontface/Lacuna-Regular-fontfacekit/webfonts/lacuna_regular_macroman/flacuna-webfont.eot');
+    src: url('../fontface/Lacuna-Regular-fontfacekit/webfonts/lacuna_regular_macroman/lacuna-webfont.eot?#iefix') format('embedded-opentype'),
+         url('../fontface/Lacuna-Regular-fontfacekit/webfonts/lacuna_regular_macroman/lacuna-webfont.woff2') format('woff2'),
+         url('../fontface/Lacuna-Regular-fontfacekit/webfonts/lacuna_regular_macroman/lacuna-webfont.woff') format('woff'),
+         url('../fontface/Lacuna-Regular-fontfacekit/webfonts/lacuna_regular_macroman/lacuna-webfont.ttf') format('truetype'),
+         url('../fontface/Lacuna-Regular-fontfacekit/webfonts/lacuna_regular_macroman/lacuna-webfont.svg#lacuna_regularregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+/* navbar */
+.navbar{
+    background-color: #2d2b2b;
+
+}
+.navbar-brand{
+    height: 6.62rem;
+    width: 7.62rem;
+    padding-top:unset!important
+}
+
+.nav-link{
+    font-family: 'League Gothic';
+}
+
+.logo{
+    padding: 1rem 1.25rem;
+}
+
+/* section 2 */
+
+.section2{
+    height: 23.12rem;
+    background-color: #3a0a1d;
+    padding-top: 7.2rem;
+    padding-bottom: 7.2rem;
+}
+
+.bi-circle-fill{
+    color:   #f0bd01;
+}
+.bi-quote{
+font-size:3.5rem;
+color: #616161;
+
+
+}
+.section2 > p{
+    margin-top: 1.8rem!important;
+
+}
+
+.Body_text {
+    font-size: 1.19rem;
+    font-family: "lacuna_regularregular";
+    line-height: 1.556;
+    text-align: left;
+  }
+  
+  .section3-btn{
+      float: right;
+      background-color:   #f0bd01;
+      width:5.3rem;
+      height:1.7rem;
+
+
+  }
+
+  footer{
+      background-color:#f0bd01;
+  }
+
+  footer span {
+      font-size: 1.8rem;
+      color: #31332e;
+      font-family: 'League Gothic';
+  }
+ 
+  .bi:hover {
+    opacity: 0.7;
+}
+  
+  /* Add a hover effect if you want */
+  /*.fa:hover {
+    opacity: 0.7;
+  }*/
+  
+  /* Set a specific color for each brand */
+  
+  /* Facebook */
+  .bi-facebook {
+    background: white;
+    color:#e4bc01;
+    padding: 10px;
+    font-size: 10px;
+    width: 1.9375rem;
+    height:1.9375rem ;
+    text-align: center;
+    text-decoration: none;
+    margin: 0.5rem;
+    border-radius: 50%;
+    
+  }
+  
+  /* Twitter */
+  .bi-twitter {
+    background: white;
+    color: #e4bc01;
+    padding: 10px;
+    font-size: 10px;
+    width: 1.9375rem;
+    height:1.9375rem ;
+    text-align: center;
+    text-decoration: none;
+    margin: 0.5rem;
+    border-radius: 50%;
+    
+  }
+  
+  .bi-instagram{
+      background: white;
+      color: #e4bc01;
+      padding: 10px;
+      font-size: 10px;
+      width: 1.9375rem;
+      height:1.9375rem ;
+      text-align: center;
+      text-decoration: none;
+      margin: 0.5rem;
+      border-radius: 50%;
+      
+  }
